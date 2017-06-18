@@ -1,2 +1,2 @@
-# bash-scripts
-repo of useful bash scripts and config files
+# shell-scripts
+repo of useful shell scripts and config files
